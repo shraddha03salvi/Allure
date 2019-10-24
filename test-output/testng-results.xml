@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18927" started-at="2019-10-18T13:21:10Z" finished-at="2019-10-18T13:21:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18927" started-at="2019-10-18T13:21:10Z" finished-at="2019-10-18T13:21:29Z">
+      <class name="Application">
+        <test-method status="PASS" signature="before()[pri:0, instance:Application@a514af7]" name="before" is-config="true" duration-ms="10039" started-at="2019-10-18T13:21:10Z" finished-at="2019-10-18T13:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Application@a514af7]" name="testcase1" duration-ms="7665" started-at="2019-10-18T13:21:20Z" finished-at="2019-10-18T13:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:Application@a514af7]" name="testcase2" duration-ms="9" started-at="2019-10-18T13:21:29Z" finished-at="2019-10-18T13:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:Application@a514af7]" name="testcase3" duration-ms="6" started-at="2019-10-18T13:21:29Z" finished-at="2019-10-18T13:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Application -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
